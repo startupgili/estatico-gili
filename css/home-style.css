@@ -26,7 +26,7 @@
     }
 
 .logo img{
-    width: 6rem;
+    width: 5rem;
     
    
 }
@@ -35,6 +35,7 @@
     margin-left: 2rem;
     transition: all 0.8s;
     color: black;
+    
 }
 
 .nav-bar{
@@ -52,7 +53,7 @@
     margin-left: 4rem;
     text-decoration: none;
     color:black;
-    font-weight: bold;
+    font-weight: 400;
     font-size: 1.2rem; 
     transition: all 0.8s;
 }
@@ -88,12 +89,32 @@
     margin-left: 10rem;
     box-shadow: 23px 12px 25px -16px rgba(0,0,0,1);
     border-radius: 4px;
+    align-items: center;
 
 
     
    
 }
+.logo-txt h1{
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.content{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+text-align: center;
+color:black;
+}
+
+.content h1{
+font-size: 2rem;
+
+}
 
 
-
-
+.content b{
+    color: #004367;
+}
