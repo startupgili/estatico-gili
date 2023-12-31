@@ -11,7 +11,7 @@
     flex-direction: row;
     width: 100vw;
     height: 10rem;
-    background-color: black;
+    background-color: white;
     justify-content: space-between;
     align-items: center;
 }
@@ -26,7 +26,7 @@
     }
 
 .logo img{
-    width: 10rem;
+    width: 6rem;
     
    
 }
@@ -34,7 +34,7 @@
 .logo-txt{
     margin-left: 2rem;
     transition: all 0.8s;
-    color: white;
+    color: black;
 }
 
 .nav-bar{
@@ -51,7 +51,7 @@
 .nav-bar a{
     margin-left: 4rem;
     text-decoration: none;
-    color:white;
+    color:black;
     font-weight: bold;
     font-size: 1.2rem; 
     transition: all 0.8s;
