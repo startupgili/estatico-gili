@@ -301,10 +301,20 @@
     height: 10rem;
     margin-top: 10px;
     box-shadow: 8px 8px 59px -18px rgba(255,255,255,1);
+    justify-content: center;
+    align-items: center;
 
 
 
 
 }
 
+.conteudo-estrat h1{
+    font-size: 1.2rem;
+    text-align: center;
+}
 
+.conteudo-estrat p {
+    text-align: center;
+    font-weight: 350;
+}
