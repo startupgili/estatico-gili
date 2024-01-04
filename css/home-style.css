@@ -14,7 +14,6 @@
     flex-direction: column;
     width: 45vw;
     height: 40rem;
-    background-color: white;
     justify-content: center;
     align-items: center;
 }
@@ -41,7 +40,6 @@
 .content-home-text-left {
     width: 45vw;
     height: 40rem;
-    background-color: white;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -64,4 +62,40 @@
     align-items: center;
     width: 45vw;
     height: 40rem;
+}
+.img-content-home img{
+    width: 45vw;
+    height: 40rem;
+}
+
+.text-container-left{
+    width: 45vw;
+    height: 30rem;
+    background-color: black;
+    justify-content: center;
+    /* align-items: center; */
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.text-container-left h1{
+    font-size: 2.2rem;
+    text-align: center;
+    font-weight: 450;
+}
+
+
+
+.p-container-left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.p-container-left p{
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 300;
 }
