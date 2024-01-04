@@ -36,6 +36,13 @@
     color: black;
 }
 
+.logo-txt h1 a{
+    color: black;
+    text-decoration: none;
+}
+
+
+
 .nav-bar {
     display: flex;
     flex-direction: row;
