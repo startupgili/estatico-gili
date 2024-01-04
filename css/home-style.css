@@ -16,6 +16,7 @@
     height: 40rem;
     background-color: white;
     justify-content: center;
+    align-items: center;
 }
 
 .home-container2{
@@ -25,6 +26,7 @@
     height: 40rem;
     background-color: blue;
     justify-content: center;
+    align-items: center;
 }
 
 
@@ -38,3 +40,22 @@
     align-items: center;
 }
 
+.content-home-text-left{
+    width: 10rem;
+    height: 10rem;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-home-text-right{
+    width: 10rem;
+    height: 10rem;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
