@@ -24,7 +24,6 @@
     flex-direction: column;
     width: 45vw;
     height: 40rem;
-    background-color: blue;
     justify-content: center;
     align-items: center;
 }
@@ -33,7 +32,6 @@
 .home-content{
     width: 100vw;
     height: 100vh;
-    background-color: black;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -41,9 +39,9 @@
 }
 
 .content-home-text-left{
-    width: 10rem;
-    height: 10rem;
-    background-color: black;
+    width: 45vw;
+    height: 40rem;
+    background-color:white;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -51,11 +49,20 @@
 }
 
 .content-home-text-right{
-    width: 10rem;
-    height: 10rem;
-    background-color: black;
+    width: 45vw;
+    height: 40rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
+
+.img-content-home{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 45vw;
+height: 40rem;
+}
+
